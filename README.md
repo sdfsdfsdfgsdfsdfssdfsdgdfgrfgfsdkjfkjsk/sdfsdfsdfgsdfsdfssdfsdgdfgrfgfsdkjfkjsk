@@ -6,7 +6,7 @@
 
 <h3 align="center">Just a fellow guy who likes to code, do random stuff  &  sometimes Bug Bounty Hunting.</h3>
 
-![giphy](https://github.com/At0m-txt/At0m-txt/assets/153441206/78c79744-2e15-4c51-85e4-7dde2a2aeb89)
+![giphy](https://github.com/At0m-txt/At0m-txt/assets/153441206/d922ed47-36cf-4405-ba40-770f09d7589d)
 
 
 
