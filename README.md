@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Just a fellow guy who likes to code, do random stuff  &  sometimes Bug Bounty Hunting.</h3>
+<h3 align="center">Just a fellow guy who likes to  do random stuff  &  sometimes ........</h3>
 
 ![giphy](https://github.com/At0m-txt/At0m-txt/assets/153441206/d922ed47-36cf-4405-ba40-770f09d7589d)
 
