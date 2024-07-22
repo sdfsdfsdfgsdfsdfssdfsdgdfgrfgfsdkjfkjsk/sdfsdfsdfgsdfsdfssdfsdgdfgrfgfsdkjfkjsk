@@ -16,13 +16,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Some projects that even idk and learning C and othr sys lvl lang**
+- 🔭 I’m currently working on **Some projects that even idk and learning Cpp and othr sys lvl lang**
 
 - 🌱 I’m currently learning **Low level languages, AI , Cybersec & some Bug Bounty hunting(Trying...).**
 
 - 💬 Ask me about **jk Dont ask me.**
 
-- 📫 How to reach me **https://telegra.ph/Alive-Somehow-04-14**
+- 📫 How to reach me **Dont**
 
 - ⚡ Fun fact **I can google better than you guys & I like Anime.**
 
