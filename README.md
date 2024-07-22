@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Rijan</h1>
 
-<h3> at0m-sympathy.netlify.app </h3>
-
+ 
 <h3 align="center">Just a fellow guy who likes to  do random stuff  &  sometimes ........</h3>
 
 ![giphy](https://github.com/At0m-txt/At0m-txt/assets/153441206/d922ed47-36cf-4405-ba40-770f09d7589d)
 
-
+**at0m-sympathy.netlify.app**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=at0m-txt&label=Profile%20views&color=0e75b6&style=flat" alt="at0m-txt" /> </p>
