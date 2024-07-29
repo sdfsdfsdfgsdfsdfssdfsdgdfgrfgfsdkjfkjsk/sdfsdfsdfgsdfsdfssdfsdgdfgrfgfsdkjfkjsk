@@ -7,7 +7,6 @@
 
 ![giphy](https://github.com/At0m-txt/At0m-txt/assets/153441206/d922ed47-36cf-4405-ba40-770f09d7589d)
 
-**at0m-sympathy.netlify.app**
 Visit for Update
 
 
@@ -16,9 +15,9 @@ Visit for Update
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Some projects that even idk and learning Cpp and othr sys lvl lang**
+- 🔭 I’m currently working on **Some projects that even idk **
 
-- 🌱 I’m currently learning **Low level languages, AI , Cybersec & some Bug Bounty hunting(Trying...).**
+- 🌱 I’m currently learning ** AI , Cybersec & some Bug Bounty hunting(Trying...).**
 
 - 💬 Ask me about **jk Dont ask me.**
 
